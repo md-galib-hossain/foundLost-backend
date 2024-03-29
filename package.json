@@ -2,7 +2,7 @@
   "name": "l2-b2-fullstack-track-assignment-8-md-galib-hossain",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "ts-node-dev --respawn --transpile-only src/server.ts",
